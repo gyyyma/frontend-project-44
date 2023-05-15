@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 import askName from '../cli.js';
-import generateRandomNumber from '../index.js';
+import generateRandomNumber from '../utils.js';
 
 function isEven(num) {
   return num % 2 === 0;
