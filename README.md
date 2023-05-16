@@ -1,5 +1,5 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/gyyyma/frontend-project-44/workflows/hexlet-check/badge.svg)]
+[![Actions Status](https://github.com/gyyyma/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/gyyyma/frontend-project-44.git)
 
 ## brain-games
 [![asciicast](https://asciinema.org/a/n2chnDQsEA62KXpn8RN2asTR5.svg)](https://asciinema.org/a/n2chnDQsEA62KXpn8RN2asTR5)
