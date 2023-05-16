@@ -23,6 +23,6 @@ const generateQuestion = () => {
 
 const gameTask = 'What number is missing in the progression?';
 
-export default function brainProgression() {
+export default function playBrainProgression() {
   game(gameTask, generateQuestion);
 }
