@@ -4,13 +4,15 @@ publish:
 		npm publish --dry-run
 lint:
 		npx eslint .
-brain-games:
+games:
 		node bin/brain-games.js
-brain-even:
+even:
 		node bin/brain-even.js
-brain-calc:
+calc:
 		node bin/brain-calc.js
-brain-gcd:
+gcd:
 		node bin/brain-gcd.js
-brain-progression:
+prog:
 		node bin/brain-progression.js
+prime:
+		node bin/brain-prime.js
