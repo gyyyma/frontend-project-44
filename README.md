@@ -1,6 +1,11 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/gyyyma/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/gyyyma/frontend-project-44.git)
 
+# Installation
+    git clone https://github.com/gyyyma/frontend-project-44.git
+    cd frontend-project-44
+    make install
+
 ## brain-games
 [![asciicast](https://asciinema.org/a/n2chnDQsEA62KXpn8RN2asTR5.svg)](https://asciinema.org/a/n2chnDQsEA62KXpn8RN2asTR5)
 
