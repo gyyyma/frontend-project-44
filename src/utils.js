@@ -1,3 +1,4 @@
-export default function generateRandomNumber() {
-  return Math.floor(Math.random() * 100);
+export default function getRandomNumber(maxNumber = 100) {
+  const randomNum = Math.floor(Math.random() * maxNumber);
+  return randomNum;
 }
